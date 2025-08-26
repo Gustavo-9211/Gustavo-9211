@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou Gustavo, estou iniciando minha jornada como programador Front End, estou aprendendo e criando projetos com:
+Sou Gustavo, estou iniciando minha jornada como programador Full Stack, estou aprendendo e criando projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
