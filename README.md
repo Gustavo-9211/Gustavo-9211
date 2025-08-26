@@ -9,9 +9,6 @@ Sou Gustavo, estou iniciando minha jornada como programador Full Stack, estou ap
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>
 
-<!-- Badges das tecnologias -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo"/>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-9211)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-9211)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-9211&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
